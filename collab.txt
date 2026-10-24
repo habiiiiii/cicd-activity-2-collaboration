@@ -1,3 +1,3 @@
 Hello Owner!
 Hi Collaborator!
-Team message: Original message.
+Team message: Updated by the collaborator.
